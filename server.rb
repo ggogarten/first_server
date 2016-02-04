@@ -5,5 +5,5 @@ get '/' do
 end
 
 get "/sinatra" do
-"Hello Sinatra"
+  "Hello Sinatra"
 end
